@@ -23,6 +23,5 @@ names = [[word for word in n if word.lower() not in words.words()] for n in tqdm
 names = [name for name in names if name != []]
 
 g = open('names.txt', 'a')
-#g.write("\n".join(map(" ".join,names)))
-g.writelines(map(" ".join,names))
+g.write("\n".join(map(" ".join,names)))
 g.close()
