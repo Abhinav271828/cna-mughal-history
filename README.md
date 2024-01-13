@@ -7,4 +7,4 @@ A computational perspective on character networks through the works of Mughal hi
     - resolving linebreaks within words, *e.g.*, `Compass-\nionate` => `Compassionate`
     - removing page marks e.g. `(3b)` [`\(\d+\w\)`]
     - removing asterisks
-* `names.txt`
+* `names.txt`: A list of occurrences of various names (people and places) in the *Humayunnama*. All contiguous sequences of words beginning with capital letters were extracted. To account for names like `Badī'u-z-zamān`, the token `'` and all tokens starting with `u-` were also included. English words were filtered out of the final list (*e.g.*, `New Year's Garden`).
