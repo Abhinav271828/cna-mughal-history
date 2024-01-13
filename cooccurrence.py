@@ -48,7 +48,13 @@ for i in tqdm(range(len(names)), desc="Extracting cooccurrences"):
         distances = [min(abs(b1-e2), abs(b2-e1)) for b1, e1 in positions1 for b2, e2 in positions2]
         cooccurrence[(name1, name2)] = sum(1 for d in distances if d <= W)
 
-# Construct an unweighted graph with 
+# Collapse name1-name2 and name2-name1
+for (n1, n2) in [(n1, n2) for n1 in names for n2 in names]:
+    if (n1 <= n2): continue
+    cooccurrence[(n2, n1)] += cooccurrence[(n1, n2)]
+    del cooccurrence[(n1, n2)]
+
+# Construct graph
 G = nx.Graph()
 G.add_nodes_from(names)
 for (n1, n2) in cooccurrence:
@@ -62,6 +68,6 @@ for n in names:
 
 components = [G.subgraph(c).copy() for c in sorted(nx.connected_components(G), key=len, reverse=True)]
 
-for component in components:
-    nx.draw(component, with_labels=True)
-    plt.show()
+#for component in components:
+#    nx.draw(component, with_labels=True)
+#    plt.show()
