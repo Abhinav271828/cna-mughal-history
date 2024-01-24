@@ -21,10 +21,12 @@ except:
     occurrences = defaultdict(lambda : [])
     i = 0
     while i < len(w):
-        if w[i][0] in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" and w[i].lower() not in stopwords.words('english'):
+        if w[i][0] in "AĀBCDEFGHḤIJKLMNOPQRSṢTUŪVWXYZẔ" and w[i].lower() not in stopwords.words('english'):
             name = []
             beg = i
-            while w[i][0] in "ABCDEFGHIJKLMNOPQRSTUVWXYZ'" and w[i] != "'s" or w[i][:2] == "u-":
+            while w[i][0] in "AĀBCDEFGHḤIJKLMNOPQRSṢTUŪVWXYZẔ" and w[i] != "'s" or \
+                  w[i][:2] == "u-" or \
+                  w[i] == "'" or w[i][:2] == "l-":
                 name += [w[i]]
                 i += 1
             occurrences[tuple(name)].append((beg, i))
@@ -36,6 +38,9 @@ except:
     with open('humayunnama_occ.pickle', 'wb') as handle:
         pickle.dump(occurrences, handle, protocol=pickle.HIGHEST_PROTOCOL)
 names = list(occurrences.keys())
+f = open('names.txt', 'w')
+for name in names: f.write(f"{name}\n")
+f.close()
 
 # For all pairs of words, find the number of times they occur within W words of each other.
 W = 5

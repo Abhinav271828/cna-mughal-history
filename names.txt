@@ -6,7 +6,7 @@ Farghāna
 Chaghatāi
 Tīmūrid
 Uzbeg
-Māwarā
+Māwarā '
 Transoxiana
 Samarqand
 Sulān Ḥusain Mīrzā Bāyqrā
@@ -23,8 +23,7 @@ Kunduz
 Bayasanghar Mīrzā
 Sulān Mas'ūd Mīrzā
 Muḥammad Muqīm
-Ẕū
-Arghūn
+Ẕū ' l-nūn Arghūn
 Nāhīd Begam
 Ulugh Mīrzā
 Mīrzā
@@ -34,11 +33,13 @@ Rabī II.
 Bangash
 Sulān Ḥusain Mīrzā
 Uzbegs
-Badī
+Badī ' u-z-zamān Mīrzā
 Barandūq
-Beg—amīrs
+Ẕū ' l-nūn Beg—amīrs
 Sulān Ḥusain Mīrzā—said
 Qāsim
+Badī ' u-z-zamān
+Ẕū ' l-nūn
 Uzbegs.
 Ghūrband
 Hazāra
@@ -72,6 +73,7 @@ Khost
 Mihr-jān Begam
 Gul-rang
 Tuesday
+Ẕū ' l-qa'da
 Pisces
 Mīrzā Bābar
 Sulṭan Humāyūn Khān
@@ -82,6 +84,7 @@ Humāyūn Mīrzā
 Mihr-jahān Begam
 Ma'ṣūma Begam
 October
+Māwarā ' u-n-nahr
 Mughals
 Kūl
 Khān
@@ -123,6 +126,7 @@ Hindū-stān
 Gūhar-shād Begam
 Fakhr-jahān Begam
 Khadīja Sulān Begam
+Badī ' u-l-jamāl Begam
 Āq Begam
 Sulān Bakht Begam
 Zainab Sulān Kḥānam
@@ -297,13 +301,13 @@ Nāz-gul
 Makhdūma
 Faīma Sulān
 Raushan
-Fakhru-n-nisā
+Fakhru-n-nisā '
 Nadīm
 Muḥammadī
 Mu'yid
-Sharīfu-n-nisā
+Sharīfu-n-nisā '
 Fatḥ
-Rabī
+Rabī '
 Māh-liqā
 Salīma Bega
 Bībī Neka
@@ -408,7 +412,7 @@ Nūr
 Nār-gul
 Mīrzā Muḥammad Hindāl
 Muḥammad Hindāl Mīrzā
-Mīr Abū
+Mīr Abū ' l-baqā
 Lakhnau
 Niām
 Gifts
@@ -429,6 +433,7 @@ Jalālu-d-dīn Muḥammad Akbar.
 Jām
 Bībī Gūnwar
 Dost
+Jumāda ' u-l-awwal
 Bakhshī-bānū
 Kashmīr
 Mīrzā Ḥaidar Kāshgharī
@@ -436,7 +441,7 @@ Lāhōr—be
 Sīālkōt
 Mū'yid
 Gulrukh Begam
-Wāqi
+Wāqi '
 Bhakkar
 Multān
 Balūchī
@@ -452,6 +457,7 @@ Samandar
 Things
 Qandahār.
 Mīr Bābā Dost.
+Khwāja '
 Ḥamīda-bānū
 Mīr Bābā Dost
 Ḥamīdā-bānū Begam
@@ -619,6 +625,7 @@ Qambar
 Mīrzā Ḥājī
 Shīr Afkan
 Shīroya
+Afghāns '
 Dih-i-Afghānān
 Jūkī Khān
 Mastān
@@ -632,7 +639,7 @@ Māh-chūchak Begam
 Khānīsh
 Badakhshān Māh-chūchak
 Daulat-bakht
-Bakht-nisā
+Bakht-nisā '
 Māh-chūchak
 Sakīna-bānū Begam
 Amīna-bānū Begam
@@ -663,7 +670,7 @@ Kūlāb
 Tarkhān Bega
 Ḥaram Begam
 Mīrzā Ibrāhīm
-Abū
+Abū ' l-qāsim
 Muḥtarīma Khānam
 Andar-āb.
 Sulān Khānam
