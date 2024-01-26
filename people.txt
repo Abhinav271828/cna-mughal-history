@@ -1,24 +1,10 @@
 Jannat-āshyānī
 Ṣāḥib-qirānī
-Andijān
-Farghāna
-Chaghatāi
-Tīmūrid
-Uzbeg
-Māwarā '
-Transoxiana
-Samarqand
 Sulān Ḥusain Mīrzā Bāyqrā
-Khurāsān
 Sulān Maḥmūd Khān
-Kāshghar
 Shāhī Khān
 Khānzāda Begam
-Badakhshān Badakhshānāt
-Kābul
 Khusrau Shāh
-Kunduz
-Badakhshānāt
 Bayasanghar Mīrzā
 Sulān Mas'ūd Mīrzā
 Muḥammad Muqīm
@@ -28,10 +14,7 @@ Ulugh Mīrzā
 Mīrzā
 Ulugh
 Qandahār
-Rabī II
-Bangash
 Sulān Ḥusain Mīrzā
-Uzbegs
 Badī ' u-z-zamān Mīrzā
 Barandūq
 Ẕū ' l-nūn
@@ -39,10 +22,8 @@ Qāsim
 Badī ' u-z-zamān
 Ghūrband
 Hazāra
-Minār
 Mīrzā Khān
 Mīrzā Muḥammad Ḥusain Gūrkān
-Moon-faced
 Mīrzā Muḥammad Ḥusain
 Sulān Begam
 Sulān Aḥmad Mīrzā
@@ -65,12 +46,9 @@ Gul-chihra Begam
 Hindāl Mīrzā
 Gul-badan Begam
 Alwar Mīrzā
-Khost
 Mihr-jān Begam
 Gul-rang
-Tuesday
 Ẕū ' l-qa'da
-Pisces
 Mīrzā Bābar
 Sulṭan Humāyūn Khān
 Shāh- -fīroz-qadr
@@ -79,47 +57,23 @@ Nāṣir Mīrzā
 Humāyūn Mīrzā
 Mihr-jahān Begam
 Ma'ṣūma Begam
-Samarqand October
-Māwarā ' u-n-nahr Transoxiana
-Mughals
-Kūl
 Khān
-Badakhshān
-Māwarā ' u-n-nahr
-Hindūstān
-Bajaur
-Afghānī
 Manṣūr Yūsufzai
 Mīrzā Hindāl
-Bhīra
 Mīrzā Sulaimān
 Mīrzā Humāyūn
 Qilāt
-Qanda-hār
 Mīrzā Kāmrān
-Langa
 Dīh-i-ya'qūb
-Friday
-Ṣafar
-November
-Sīālkūt
-Dīpālpūr
-Lāhōr
-Sirhind
-Rajab
-April
-Pānīpat
 Sulān Ibrāhīm
 Sulān Sikandar
 Bahlūl Lodī
 Khwāja Kilān
 Sultān Ibrāhīm
 Khwāja
-Agra
 Ṣāḥib-qirān
 Chingīz Khān
 Sulān Abū-sa'īd
-Hindū-stān
 Gūhar-shād Begam
 Fakhr-jahān Begam
 Khadīja Sulān Begam
@@ -129,74 +83,39 @@ Sulān Bakht Begam
 Zainab Sulān Kḥānam
 Muḥibb Sulān Kḥānam
 Ilācha Khān Aḥmad
-Āgra
-Fridays
 Māham
 Abū-sa'īd Sulān Mīrzā
 Khwāja Qāsim
-Dholpūr
 Rānā Sangā
-Mandū
-Hindū
-Amīrs
-Kūl-jalālī
-Sambhal
-Rāprī
-Afghāns
 Muḥammad Sharīf
 Sakkiz Yildoz Stars
 Qāsim Ḥusain Sulān
-Jumāda II
-Sīkrī
-Fatḥpūr
-Kūl -jalālī
-Mughal
 Khalīfa
 Sulānam
 Naugrām
-Gujrātī
-Gold-scattering Bāgh-i-zar-afshān
 Alwar
 Maulānā Muḥammad Farghārī Parghālī
-Dihlī
-Mathura
 Jesus
-Sisters
 Murtaẓa
 Karīmu-l-lāh
-Wednesday
 Bābar
-Kalinjar
 Hindāl
 Mīr Bardī
 Mīr Khurd
-Ill-fated
-Marriages
 Isān-tīmūr Sulān
 Gul-chihra
 Tūkhta-būghā Sulān
-Dearest
 Aḥmad
-Gold-scattering
-Monday
-December
-Jumāda
 Araish Khān
 Muḥammad
-Qurān
-Bayāna
 Bībī Gul-barg
 Biban
 Bāyazīd
-Chanāda Chunār
 Maywa-jān
 Khadang
 Khazang
 Bega Begam
 Mīrzā Ulugh
-India
-European
-Portu­guese
 Muḥammad-zamān Mīrzā
 Ḥājī Muḥammad Khān
 Yādgār
@@ -206,27 +125,15 @@ Nai Khūb Sulān
 Muḥammad Sulān
 Muḥammad Sulān Mīrzā
 Shāh Mīrzā
-Guālīār
-Oude
 Tūkhtā-būghā Sulān
 Mīr Zāycha
 Aqīqa
 Naukār
 Khwāja Kabīr
-February
-Sha'bān
-April Shawwāl
-Shawwāl
-Dīn-panā
-B'ismu-l-lāh
 Mīrzā Hindāl's
-FEASTING
-CALLED
-Persian
 Sulān Abū-sa'īd Mīrzā
 Shahr-bānū Begam
 Yādgār Sulān Begam
-NB
 Ulugh Begam
 Zainab Sulān Begam
 Sulānī Begam
@@ -264,7 +171,6 @@ Jān Begam
 Āgha Begam
 Fīroza Begam
 Barlās Begam
-Jauhar
 Āgha Āghā
 Sulān
 Ātūn
@@ -307,121 +213,67 @@ Begī
 Sa'ādat Sulān
 Bībī Daulat-bakht
 Naṣīb
-Kābulī
 Mullā Muḥammad Farghārī Parghālī
-MĪRZĀ HINDĀL
-FOLLOWS
 Sulānam Begam
 Mahdī Khwāja
 Ja'far Khwāja
 Khān-zāda Begam
 Khānzāda
-Tūrkī
-Circassian
-Arūs
-Rūs
-Abyssinian
-Portuguese
-Ḥabshī
-Hindī
 Sulān Bahādur
 Khurāsān Khān
 Mīr Faqr-'ali
 Mīr Tardī
-Gujrāt
-Sundays
-Tuesdays
-Thorns
 Meywa-jān
 Āghā-jān
 Bībī
 Manḥasūr Mandsūr
 Champānīr
-Aḥmadābād
-Bahrūch
-Patan
 Yādgār-nāṣir Mīrzā
-Kanbāyat Cambay
-Kanbāyat
-Baroda
-Benares
 Shīr Khān
-Charkanda
-Bangāla
 Jilāl Khān
 Khawāṣ Khān
 Garhī
 Jahāngīr
-Kohlgānū Colgong
-Jannatābād
 Khusrau
 Zahīd
 Sayyīd Amīr
 Bahlūl
 Mīrzā Nūru-d-dīn Muḥammad
 Bandagī Bahlūl
-Ganges
-Mungīr
-Forsaking
-Ḥajīpūr-Patna
-Bengal
 Qāsim Ḥusain Sulān Uzbeg
 Bābā Jalāīr
-Jaunpūr
 Mīrak
-Chunār
-Araīl
 Bīrbahān
-Jamna
-Karra
-Kalpī
-Chausa
 Bachaka
 Bega-jān
 Chānd Bībī
 Shād Bībī
 Diwāna
 Sayyid Amīr
-Kanauj
 Mīr Faqr-'alī
 Mīrzā Yādgār-nāṣir
 Mīzrā Kāmrān
-Rose-scattering
 Nūr
 Nār-gul
 Mīrzā Muḥammad Hindāl
 Muḥammad Hindāl Mīrzā
 Mīr Abū ' l-baqā
-Lakhnau
 Niām
-Gifts
-Fatḥipūr Sīkrī
 Yādgār-nāṣir Mīrza
-Gawārs
 Khwāja Ghāzī
 Bībī Ḥāj-tāj
 Muaffar
-Tūrkmān
 Qāzī
-Resurrec­tion
-Rāvī
-To-morrow
 Ḥamīda-bānū Begam
 Jalālu-d-dīn Muḥammad Akbar
-Jām
 Bībī Gūnwar
 Dost
 Jumāda ' u-l-awwal
 Bakhshī-bānū
-Kashmīr
 Mīrzā Ḥaidar Kāshgharī
-Sīālkōt
 Mū'yid
 Gulrukh Begam
 Wāqi '
-Bhakkar
-Multān
-Balūchī
 Bakhshū
 Bakhshū Balūchī
 Sulān Maḥmūd Bhakkarī
@@ -430,97 +282,64 @@ Mīr Samandar
 Shāh Ḥusain Mīrzā
 Shāh Ḥusain
 Samandar
-Things
 Mīr Bābā Dost
 Khwāja '
 Ḥamīda-bānū
 Ḥamīdā-bānū Begam
 Subḥān Qulī
 Jumīdu-l-awwal
-September
-Pātr
 Sulān Bhakkarī
-Lār
-Seāwān Sehwān
-Sehwān
 Mīr
 Mīrzā Shāh Ḥusain
 Mīr Shāh Ḥusain Samandar
 Mīrzā Yādgār­nāṣir
 Bābā
 Rāja Māldeo
-Jīsalmīr
 Māldeo
 Dilāwar Dirāwal
 Alūsh
 Shāhaṃ Jalāīr
 Pīr Muḥammad
 Raushang
-Sītalmīr
-Pahlūdī
-Jodhpūr
-Bīkanīr
 Atka Khān Shamsu-d-dīn Ghaznarī
 Mullā Surkh
-Nagōr
 Atka Khān
 Muḥammad Gird-bāz
 Bāqī Guālīārī
 Tardī
-Hindūs
 Jalāīr
 Mīr Payanda Muḥammad
 Muḥammad Walī
 Mu'nīm Khān
 Mīrzā Yādgār
-Rājpūt
 Bihbūd
 Tardī Khān
-Sunday
 Jalālu-d-dīn Muḥammad Akbar Ghāzī
-Leo
 Tardī Muḥammad Khān
-Sūdmas Sodhas
-Samīchas
-Jūn
-Sūdmas
 Muaffar Turkmān
 Jājkā Ḥāj-kān
 Khālid
 Tarsh
 Shāham Khān Jalāīr
 Sulanam
-Makka
 Mullā Tāju-d-dīn
 Mīrzā Payanda Muḥammad
 Bairām Khān
 Qarācha Khān
-Ghaznīn
-Turkmāns
 Āka
 High­ness Khānzāda Begam
-Lamghānāt
-Tangayhā
-Andar-āb
-Horses
 Shāh Ḥusain Mīrza
 Khwāja Kasak
 Kīsīk
 Hamīda-bānū
-Nuāsī
 Sulān Qulī
 Maḥmūd
-Sīwī Sībī
 Mīr Allāh-dost
 Bābā Jūjūk
-Sīwī
 Allāh-dost
 Mīrzā Askarī
 Kasak
 Shal-mastān
-Afghans
-Ranī
-Ralī
 Jalālu­d-dīn Muḥammad Akbar
 Khwāja Nīāzī
 Bābā-dost
@@ -530,11 +349,7 @@ Yūsuf
 Ibrāhīm
 Ḥasan
 Ya'qūb
-Bilūchīs
-Bilūchī
 Bābā Ḥājī
-Garm-sīr
-Halmand
 Jalālu-d-dīn Maḥmūd
 Shāh
 Bahrām Mīrzā
@@ -542,19 +357,10 @@ Alqās Mīrzā
 Sām Mīrzā
 Ḥamīda­bānū Begam
 Shāhzāda Sulānam
-Hindū-stan
-Hin­dūstān
 Shāh Sulānam
-Other­wise
 Akbar
 Muḥtarīma Khānam
-Qandahār September
-Qabal-chak
-Khimār
-Ramẓān
-October
 Guẕar-gāh
-Tīpa
 Bāpūs
 Bābā Dashtī
 Dostī
@@ -571,17 +377,11 @@ Bāqī
 Ḥabība Begam
 Āq Sulān
 Bālā-i-ḥisār
-Preparations
-Brothers
 Muḥammad Akbar
-Peasants
 Qila'-i-afar
-Kishm
 Mun'im Khān
 Faẓā'il
-Ghaznī
 Zāhid
-Kābulīs
 Muḥammad Alī
 Mullā
 Bālā-i-ḥiṣār
@@ -592,8 +392,6 @@ Qambar
 Mīrzā Ḥājī
 Shīr Afkan
 Shīroya
-Afghāns '
-Dih-i-Afghānān
 Jūkī Khān
 Mastān
 Mīrzā Muḥam-mad Akbar
@@ -618,43 +416,22 @@ Mubāriz Khān
 Kulāb
 Musalmān
 Balkh
-Heart-expanding
 Qulī
-Koh-dāman
 Sarū-sahī
 Shāham
-Laghmān
-Kōh
-Dāman-i-kōh
-Tents
-Farẓa
-Istālīf
-Lamghān
-Bihzādī
 Pīr Muḥammad Khān
-Chaghatāī
-Kūlāb
 Tarkhān Bega
 Ḥaram Begam
 Mīrzā Ibrāhīm
 Abū ' l-qāsim Ibrāhīm
 Sulān Khānam
-Qibchāq
 Mīrzā Hindal
-Chārkārān
-Qarā-bāgh
 Āq Sulān Yasīn-daulat
 Ḥabība Sulān Begam
-Chārīkārān
 Sa'ādat-yār
-Friends
 Jūī-shāhī
-Doors
 Qarā Khān
 Mīrza Hindāl
 Salīm Shāh
-Khūsh-āb
 Adam Ghakkar
-Rohtās
 Sayyid Muḥammad
-MS
