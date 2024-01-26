@@ -1,4 +1,4 @@
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import words, stopwords
 from tqdm import tqdm
 from collections import defaultdict
@@ -14,7 +14,12 @@ except:
     f = open('humayunnama.txt', 'r')
     w = []
     for line in tqdm(f, desc="Tokenizing"):
-        w += word_tokenize(line)
+        sentences = sent_tokenize(line)
+        for s in sentences:
+            ws = word_tokenize(s)
+            ws = [word.replace('(', '').replace(')', '').replace('.', '') for word in ws]
+            ws = [word[:word.index('—')] if '—' in word else word for word in ws]
+            w += [word for word in ws if word != ''] + ['<//>']
     f.close()
 
     # Get list of names and places where they occur
@@ -24,15 +29,18 @@ except:
         if w[i][0] in "AĀBCDEFGHḤIJKLMNOPQRSṢTUŪVWXYZẔ" and w[i].lower() not in stopwords.words('english'):
             name = []
             beg = i
-            while w[i][0] in "AĀBCDEFGHḤIJKLMNOPQRSṢTUŪVWXYZẔ" and w[i] != "'s" or \
+            while i < len(w) and \
+                 (w[i][0] in "AĀBCDEFGHḤIJKLMNOPQRSṢTUŪVWXYZẔ" and w[i] != "'s" or \
                   w[i][:2] == "u-" or \
-                  w[i] == "'" or w[i][:2] == "l-":
+                  w[i] == "'" or w[i][:2] == "l-" or \
+                  w[i] == "a" or \
+                  w[i][0] == '-' or i > 0 and w[i-1][-1] == '-'):
                 name += [w[i]]
                 i += 1
             occurrences[tuple(name)].append((beg, i))
         i += 1
 
-    occurrences = {tuple(word for word in n if word.lower() not in words.words()) : occurrences[n] for n in tqdm(occurrences.keys(), desc='Filtering English words')}
+    occurrences = {tuple(word for word in n if word.lower == "beg" or word.lower() not in ["meantime"] + words.words()) : occurrences[n] for n in tqdm(occurrences.keys(), desc='Filtering English words')}
     occurrences = {n : occurrences[n] for n in occurrences if n != tuple()}
     occurrences = {" ".join(n) : occurrences[n] for n in occurrences}
     with open('humayunnama_occ.pickle', 'wb') as handle:
