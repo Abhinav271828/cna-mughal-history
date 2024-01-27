@@ -45,10 +45,34 @@ except:
     occurrences = {" ".join(n) : occurrences[n] for n in occurrences}
     with open('humayunnama_occ.pickle', 'wb') as handle:
         pickle.dump(occurrences, handle, protocol=pickle.HIGHEST_PROTOCOL)
-names = list(occurrences.keys())
-f = open('names.txt', 'w')
-for name in names: f.write(f"{name}\n")
-f.close()
+
+try:
+    with open('people.txt', 'r') as f:
+        print("Found people.txt, using.")
+        all_names = []
+        names = []
+        mapping = {}
+        for line in f:
+            n = line[:-1].split(':')
+            all_names += n
+            names.append(n[0])
+            print(names)
+            if len(n) > 1:
+                for name in n[1:]:
+                    mapping[name] = n[0]
+        
+    for name in all_names:
+        if name in mapping:
+            print(f"Shifting {name} to {mapping[name]}")
+            occurrences[mapping[name]] += occurrences[name]
+            del occurrences[name]
+            
+
+except FileNotFoundError:
+    names = list(occurrences.keys())
+    with open('names.txt', 'r') as f:
+        for name in names: f.write(f"{name}\n")
+    print("Using names including non-people!")
 
 # For all pairs of words, find the number of times they occur within W words of each other.
 W = 5
@@ -81,6 +105,6 @@ for n in names:
 
 components = [G.subgraph(c).copy() for c in sorted(nx.connected_components(G), key=len, reverse=True)]
 
-#for component in components:
-#    nx.draw(component, with_labels=True)
-#    plt.show()
+for component in components[:1]:
+    nx.draw(component, nx.spring_layout(component), node_size=2, with_labels=True, font_size=5)
+    plt.show()

@@ -1,77 +1,60 @@
-Jannat-āshyānī
-Ṣāḥib-qirānī
+Firdaus-makānī:Mīrzā Bābar
+Jannat-āshyānī:Humāyūn:Sulṭan Humāyūn Khān:Shāh- -fīroz-qadr:Humāyūn Mīrzā:Mīrzā Humāyūn
+Ṣāḥib-qirānī:Ṣāḥib-qirān
 Sulān Ḥusain Mīrzā Bāyqrā
 Sulān Maḥmūd Khān
 Shāhī Khān
 Khānzāda Begam
-Khusrau Shāh
+Khusrau Shāh:Khusrau
 Bayasanghar Mīrzā
 Sulān Mas'ūd Mīrzā
 Muḥammad Muqīm
-Ẕū ' l-nūn Arghūn
+Ẕū ' l-nūn Arghūn:Ẕū ' l-nūn
 Nāhīd Begam
 Ulugh Mīrzā
-Mīrzā
-Ulugh
-Qandahār
+Ulugh:Ulugh Mīrzā Kābulī
 Sulān Ḥusain Mīrzā
-Badī ' u-z-zamān Mīrzā
+Badī ' u-z-zamān Mīrzā:Badī ' u-z-zamān
 Barandūq
-Ẕū ' l-nūn
 Qāsim
-Badī ' u-z-zamān
 Ghūrband
 Hazāra
 Mīrzā Khān
-Mīrzā Muḥammad Ḥusain Gūrkān
-Mīrzā Muḥammad Ḥusain
+Mīrzā Muḥammad Ḥusain Gūrkān:Mīrzā Muḥammad Ḥusain
 Sulān Begam
 Sulān Aḥmad Mīrzā
-Akām
-Māham Begam
-Humāyūn
+Akām:Māham Begam:Māham
 Bārbūl Mīrzā
-Mihr-jān
 Begam
 Ishān-daulat Begam
 Fārūq Mīrzā
-Ma'ṣūma Sulān Begam
+Ma'ṣūma Sulān Begam:Ma'ṣūma Begam
 Gul-rukh Begam
 Kāmrān Mīrzā
 Shāh-rukh Mīrzā
 Gul-'iẕār Begam
 Dil-dār Begam
-Gul-rang Begam
+Gul-rang Begam:Gul-rang
 Gul-chihra Begam
-Hindāl Mīrzā
+Hindāl Mīrzā:Mīrzā Muḥammad Hindāl:Mīrzā Hindāl:Hindāl:Mīrzā Hindāl's:Muḥammad Hindāl Mīrzā:Mīrza Hindāl:Mīrzā Hindal
 Gul-badan Begam
 Alwar Mīrzā
-Mihr-jān Begam
-Gul-rang
+Mihr-jān Begam:Mihr-jān
 Ẕū ' l-qa'da
-Mīrzā Bābar
-Sulṭan Humāyūn Khān
-Shāh- -fīroz-qadr
 Shāh Ismā'īl
 Nāṣir Mīrzā
-Humāyūn Mīrzā
 Mihr-jahān Begam
-Ma'ṣūma Begam
 Khān
 Manṣūr Yūsufzai
-Mīrzā Hindāl
 Mīrzā Sulaimān
-Mīrzā Humāyūn
 Qilāt
 Mīrzā Kāmrān
-Dīh-i-ya'qūb
 Sulān Ibrāhīm
 Sulān Sikandar
 Bahlūl Lodī
 Khwāja Kilān
 Sultān Ibrāhīm
 Khwāja
-Ṣāḥib-qirān
 Chingīz Khān
 Sulān Abū-sa'īd
 Gūhar-shād Begam
@@ -83,12 +66,10 @@ Sulān Bakht Begam
 Zainab Sulān Kḥānam
 Muḥibb Sulān Kḥānam
 Ilācha Khān Aḥmad
-Māham
 Abū-sa'īd Sulān Mīrzā
 Khwāja Qāsim
 Rānā Sangā
 Muḥammad Sharīf
-Sakkiz Yildoz Stars
 Qāsim Ḥusain Sulān
 Khalīfa
 Sulānam
@@ -98,8 +79,6 @@ Maulānā Muḥammad Farghārī Parghālī
 Jesus
 Murtaẓa
 Karīmu-l-lāh
-Bābar
-Hindāl
 Mīr Bardī
 Mīr Khurd
 Isān-tīmūr Sulān
@@ -112,16 +91,13 @@ Bībī Gul-barg
 Biban
 Bāyazīd
 Maywa-jān
-Khadang
-Khazang
+Khadang:Khazang
 Bega Begam
-Mīrzā Ulugh
 Muḥammad-zamān Mīrzā
 Ḥājī Muḥammad Khān
 Yādgār
 Sulān Muḥammad Mīrzā
-Nai Walī Khūb Sulān Mīrzā
-Nai Khūb Sulān
+Nai Walī Khūb Sulān Mīrzā:Nai Khūb Sulān
 Muḥammad Sulān
 Muḥammad Sulān Mīrzā
 Shāh Mīrzā
@@ -130,7 +106,6 @@ Mīr Zāycha
 Aqīqa
 Naukār
 Khwāja Kabīr
-Mīrzā Hindāl's
 Sulān Abū-sa'īd Mīrzā
 Shahr-bānū Begam
 Yādgār Sulān Begam
@@ -141,7 +116,6 @@ Kilān Khān Begam
 Bega Sulān Begam
 Sulān Khalīl Mīrzā
 Begī Begam
-Ulugh Mīrzā Kābulī
 Payanda Muḥam-mad Sulān Begam
 Shāh Khānam
 Khānam Begam
@@ -161,10 +135,9 @@ Mihr-līq
 Mihr-bānū Begam
 Shād Begam
 Sulān Husain Mīrzā
-Mihr-angez Begam
+Mihr-angez Begam:Mihr-angez
 Muaffar Ḥusain Mīrzā
 Shād
-Mihr-angez
 Fauq Begam
 Jān Begam
 Āfroz-bānū Begam
@@ -226,15 +199,12 @@ Mīr Tardī
 Meywa-jān
 Āghā-jān
 Bībī
-Manḥasūr Mandsūr
-Champānīr
 Yādgār-nāṣir Mīrzā
 Shīr Khān
 Jilāl Khān
 Khawāṣ Khān
 Garhī
 Jahāngīr
-Khusrau
 Zahīd
 Sayyīd Amīr
 Bahlūl
@@ -255,8 +225,6 @@ Mīrzā Yādgār-nāṣir
 Mīzrā Kāmrān
 Nūr
 Nār-gul
-Mīrzā Muḥammad Hindāl
-Muḥammad Hindāl Mīrzā
 Mīr Abū ' l-baqā
 Niām
 Yādgār-nāṣir Mīrza
@@ -264,8 +232,6 @@ Khwāja Ghāzī
 Bībī Ḥāj-tāj
 Muaffar
 Qāzī
-Ḥamīda-bānū Begam
-Jalālu-d-dīn Muḥammad Akbar
 Bībī Gūnwar
 Dost
 Jumāda ' u-l-awwal
@@ -284,8 +250,7 @@ Shāh Ḥusain
 Samandar
 Mīr Bābā Dost
 Khwāja '
-Ḥamīda-bānū
-Ḥamīdā-bānū Begam
+Ḥamīdā-bānū Begam:Ḥamīda-bānū Begam:Ḥamīda-bānū:Hamīda-bānū
 Subḥān Qulī
 Jumīdu-l-awwal
 Sulān Bhakkarī
@@ -295,8 +260,6 @@ Mīr Shāh Ḥusain Samandar
 Mīrzā Yādgār­nāṣir
 Bābā
 Rāja Māldeo
-Māldeo
-Dilāwar Dirāwal
 Alūsh
 Shāhaṃ Jalāīr
 Pīr Muḥammad
@@ -314,7 +277,6 @@ Mu'nīm Khān
 Mīrzā Yādgār
 Bihbūd
 Tardī Khān
-Jalālu-d-dīn Muḥammad Akbar Ghāzī
 Tardī Muḥammad Khān
 Muaffar Turkmān
 Jājkā Ḥāj-kān
@@ -331,7 +293,6 @@ High­ness Khānzāda Begam
 Shāh Ḥusain Mīrza
 Khwāja Kasak
 Kīsīk
-Hamīda-bānū
 Sulān Qulī
 Maḥmūd
 Mīr Allāh-dost
@@ -340,7 +301,7 @@ Allāh-dost
 Mīrzā Askarī
 Kasak
 Shal-mastān
-Jalālu­d-dīn Muḥammad Akbar
+Jalālu­d-dīn Muḥammad Akbar:Jalālu-d-dīn Muḥammad Akbar Ghāzī:Akbar:Muḥammad Akbar:Mīrzā Muḥam-mad Akbar:Mīrzā Muḥammad Akbar:Jalālu-d-dīn Muḥammad Akbar
 Khwāja Nīāzī
 Bābā-dost
 Mīrzā Qulī
@@ -358,7 +319,6 @@ Sām Mīrzā
 Ḥamīda­bānū Begam
 Shāhzāda Sulānam
 Shāh Sulānam
-Akbar
 Muḥtarīma Khānam
 Guẕar-gāh
 Bāpūs
@@ -377,7 +337,6 @@ Bāqī
 Ḥabība Begam
 Āq Sulān
 Bālā-i-ḥisār
-Muḥammad Akbar
 Qila'-i-afar
 Mun'im Khān
 Faẓā'il
@@ -394,10 +353,8 @@ Shīr Afkan
 Shīroya
 Jūkī Khān
 Mastān
-Mīrzā Muḥam-mad Akbar
 Khwāja Dost Khāwand
 Jahān Sulān Begam
-Mīrzā Muḥammad Akbar
 Bahādur
 Nāir
 Māh-chūchak Begam
@@ -414,8 +371,6 @@ Tāliqān
 Muṣāḥib Khān
 Mubāriz Khān
 Kulāb
-Musalmān
-Balkh
 Qulī
 Sarū-sahī
 Shāham
@@ -425,13 +380,11 @@ Tarkhān Bega
 Mīrzā Ibrāhīm
 Abū ' l-qāsim Ibrāhīm
 Sulān Khānam
-Mīrzā Hindal
 Āq Sulān Yasīn-daulat
 Ḥabība Sulān Begam
 Sa'ādat-yār
 Jūī-shāhī
 Qarā Khān
-Mīrza Hindāl
 Salīm Shāh
 Adam Ghakkar
 Sayyid Muḥammad
