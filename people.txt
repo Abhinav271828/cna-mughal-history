@@ -35,7 +35,7 @@ Shāh-rukh Mīrzā
 Gul-'iẕār Begam
 Dil-dār Begam
 Gul-rang Begam:Gul-rang
-Gul-chihra Begam
+Gul-chihra Begam:Gul-chihra
 Hindāl Mīrzā:Mīrzā Muḥammad Hindāl:Mīrzā Hindāl:Hindāl:Mīrzā Hindāl's:Muḥammad Hindāl Mīrzā:Mīrza Hindāl:Mīrzā Hindal
 Gul-badan Begam
 Alwar Mīrzā
@@ -82,7 +82,6 @@ Karīmu-l-lāh
 Mīr Bardī
 Mīr Khurd
 Isān-tīmūr Sulān
-Gul-chihra
 Tūkhta-būghā Sulān
 Aḥmad
 Araish Khān
@@ -177,7 +176,7 @@ Marwārīd
 Nigār
 Nār Sulān
 Āgha
-Mu'nim Khān
+Mu'nim Khān:Mu'nīm Khān
 Mīr Shāh Ḥusain
 Bega
 Kīsak Māham
@@ -273,7 +272,6 @@ Tardī
 Jalāīr
 Mīr Payanda Muḥammad
 Muḥammad Walī
-Mu'nīm Khān
 Mīrzā Yādgār
 Bihbūd
 Tardī Khān
