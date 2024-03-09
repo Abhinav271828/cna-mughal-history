@@ -7,7 +7,8 @@ A computational perspective on character networks through the works of Mughal hi
     - resolving linebreaks within words, *e.g.*, `Compass-\nionate` => `Compassionate`
     - removing page marks e.g. `(3b)` [`\(\d+\w\)`]
     - removing asterisks
-* `names.txt`: A list of occurrences of various names (people and places) in the *Humayunnama*. All contiguous sequences of words beginning with capital letters were extracted. To account for names like `Badī'u-z-zamān`, the token `'` and all tokens starting with `u-` were also included. English words were filtered out of the final list (*e.g.*, `New Year's Garden`).
+* `names.txt`: A list of occurrences of various names (people and places) in the *Humayunnama*. We use [the spaCy module](https://spacy.io) to perform NER (named entity recognition) and use the names tagged as `PERSON` or `ORG`.
+* `people.txt`: A list of names (not occurrences) of people in the *Humayunnama*. Manually filtered from `names.txt`.
 
 # Images
 * `only_people.png`: The largest connected component in the co-occurrence graph (unweighted) of all characters. The window size is 5.
